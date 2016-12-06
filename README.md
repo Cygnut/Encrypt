@@ -1,7 +1,7 @@
 # encrypt
 Simple little file encryption CLI tool.
 
-# commands
+# Commands
 
 ## e/encrypt:
 Encrypt the file with the given password.
