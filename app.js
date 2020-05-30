@@ -47,7 +47,7 @@ program
     
     e.decrypt(options.password, options.input, output);
     
-    console.log('password %s, input %s, output %s', options.password, options.input, output);	
+    console.log('password %s, input %s, output %s', options.password, options.input, output);    
   });
 
 program.parse(process.argv);
